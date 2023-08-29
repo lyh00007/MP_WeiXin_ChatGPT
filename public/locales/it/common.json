@@ -1,0 +1,21 @@
+{
+  "chinese": "中文",
+  "english": "English",
+  "italian": "Italiano",
+  "404": "404 - Page Not Found",
+  "500": "500 - Server-side error occurred",
+  "backToHome": "Back to home",
+  "goBack": "Go back",
+  "heading": "Homepage | Connessione di un account WeChat a ChatGPT",
+  "title": "Connessione di un account WeChat a ChatGPT",
+  "Login": "Accesso",
+  "Sign Out": "Disconnessione",
+  "Username": "Nome utente",
+  "Password": "Password",
+  "Submit": "Invia",
+  "Unknown error": "Errore sconosciuto",  
+  "Internal server error": "Errore interno del server",
+  "Incorrect username or password": "Nome utente o password errati",
+  "Login successful": "Accesso effettuato con successo",
+  "Logging Out": "Disconnessione ..."
+}

@@ -1,0 +1,21 @@
+{
+    "chinese": "中文",
+    "english": "English",
+    "italian": "Italiano",
+    "404": "404 - 页面未找到",
+    "500": "500 - 服务器端错误",
+    "backToHome": "返回主页",
+    "goBack": "返回",
+    "heading": "主页 | 微信公众号对接ChatGPT程序",
+    "title": "微信公众号对接ChatGPT程序",
+    "Login": "登录",
+    "Sign Out": "退出登录",
+    "Username": "用户名",
+    "Password": "密码",
+    "Submit": "提交",
+    "Unknown error": "未知错误",
+    "Internal server error": "内部服务器错误",
+    "Invalid username or password": "用户名或密码错误",
+    "Login successful": "登录成功",
+    "Logging Out": "正在退出登录..."
+}
